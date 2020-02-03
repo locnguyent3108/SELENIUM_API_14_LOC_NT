@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0519075c-a360-48da-bdfe-e6d830aab374" name="Default Changelist" comment="topic 04 exercise">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Topic_04_Xpath_Css.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0fe8f83982b4c699ffae58846391c80c032ea13a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    <list default="true" id="0519075c-a360-48da-bdfe-e6d830aab374" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Topic_06_WebBrowser_Commands.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/demo.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +46,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunAnythingCache">
@@ -57,7 +54,7 @@
       <command value="git remote add origin https://github.com/locnguyent3108/SELENIUM_API_14_LOC_NT.git" />
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Topic_04_Xpath_Css.TC_06_CreateNewAccount">
+  <component name="RunManager" selected="TestNG.Topic_06_WebBrowser_Commands.getPageSource">
     <configuration name="Topic_04_Xpath_Css.TC_01_LoginWithEmptyEmailAndPassword" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SELENIUM_API_14_LOC_NT" />
       <option name="PACKAGE_NAME" value="" />
@@ -106,8 +103,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Topic_06_WebBrowser_Commands.getPageSource" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SELENIUM_API_14_LOC_NT" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Topic_06_WebBrowser_Commands" />
+      <option name="METHOD_NAME" value="getPageSource" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Topic_06_WebBrowser_Commands.getPageSource" />
         <item itemvalue="TestNG.Topic_04_Xpath_Css.TC_06_CreateNewAccount" />
         <item itemvalue="TestNG.Topic_04_Xpath_Css.TC_05_LoginWithValidCredentials" />
         <item itemvalue="TestNG.Topic_04_Xpath_Css.TC_02_LoginWithInvalidEmail" />
@@ -128,7 +138,7 @@
       <workItem from="1580372885225" duration="310000" />
       <workItem from="1580373625289" duration="423000" />
       <workItem from="1580378972403" duration="1790000" />
-      <workItem from="1580609588817" duration="4213000" />
+      <workItem from="1580609588817" duration="11772000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1580373675142</created>
@@ -165,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580380276274</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="topic 04 exercise">
+      <created>1580634601927</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580634601927</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,47 +204,52 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="363" y="139" key="#Notifications/0.23.1440.877@0.23.1440.877" timestamp="1580380200069" />
-    <state x="261" y="104" key="CommitChangelistDialog2" timestamp="1580634456149">
+    <state x="261" y="104" key="CommitChangelistDialog2" timestamp="1580634601667">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="261" y="104" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1580634456149" />
+    <state x="261" y="104" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1580634601667" />
     <state x="348" y="138" key="CommitChangelistDialog2/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1580374770776" />
     <state x="496" y="540" key="Github.CreateGistDialog" timestamp="1580372898551">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="496" y="540" key="Github.CreateGistDialog/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1580372898551" />
-    <state width="1440" height="236" key="GridCell.Tab.0.bottom" timestamp="1580634456133">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1440" height="250" key="GridCell.Tab.0.bottom" timestamp="1580721403033">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1440" height="250" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580721403033" />
     <state width="1440" height="236" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1580634456133" />
     <state width="998" height="229" key="GridCell.Tab.0.bottom/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1580373195226" />
     <state width="1440" height="236" key="GridCell.Tab.0.bottom/1920.203.1440.877/0.23.1920.1057@1920.203.1440.877" timestamp="1580610026678" />
-    <state width="1440" height="236" key="GridCell.Tab.0.center" timestamp="1580634456132">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1440" height="250" key="GridCell.Tab.0.center" timestamp="1580721403032">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1440" height="250" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580721403032" />
     <state width="1440" height="236" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1580634456132" />
     <state width="998" height="229" key="GridCell.Tab.0.center/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1580373195225" />
     <state width="1440" height="236" key="GridCell.Tab.0.center/1920.203.1440.877/0.23.1920.1057@1920.203.1440.877" timestamp="1580610026677" />
-    <state width="1440" height="236" key="GridCell.Tab.0.left" timestamp="1580634456131">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1440" height="250" key="GridCell.Tab.0.left" timestamp="1580721403032">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1440" height="250" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580721403032" />
     <state width="1440" height="236" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1580634456131" />
     <state width="998" height="229" key="GridCell.Tab.0.left/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1580373195224" />
     <state width="1440" height="236" key="GridCell.Tab.0.left/1920.203.1440.877/0.23.1920.1057@1920.203.1440.877" timestamp="1580610026676" />
-    <state width="1440" height="236" key="GridCell.Tab.0.right" timestamp="1580634456132">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1440" height="250" key="GridCell.Tab.0.right" timestamp="1580721403033">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1440" height="250" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580721403033" />
     <state width="1440" height="236" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1580634456132" />
     <state width="998" height="229" key="GridCell.Tab.0.right/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1580373195225" />
     <state width="1440" height="236" key="GridCell.Tab.0.right/1920.203.1440.877/0.23.1920.1057@1920.203.1440.877" timestamp="1580610026677" />
-    <state x="264" y="112" key="SettingsEditor" timestamp="1580380241692">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="264" y="91" key="SettingsEditor" timestamp="1580717986273">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="264" y="91" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1580717986273" />
     <state x="264" y="112" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1580380241692" />
-    <state x="272" y="240" key="Vcs.Push.Dialog.v2" timestamp="1580634582982">
+    <state x="272" y="240" key="Vcs.Push.Dialog.v2" timestamp="1580634606598">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="272" y="240" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1580634582982" />
+    <state x="272" y="240" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1580634606598" />
     <state x="363" y="285" key="Vcs.Push.Dialog.v2/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1580374772795" />
     <state x="456" y="378" key="com.intellij.ide.util.TipDialog" timestamp="1580609590096">
       <screen x="0" y="23" width="1920" height="1057" />
