@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0519075c-a360-48da-bdfe-e6d830aab374" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Topic_08_textArea_DropDown.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Topic_06_WebBrowser_Commands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Topic_06_WebBrowser_Commands.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
       <command value="git remote add origin https://github.com/locnguyent3108/SELENIUM_API_14_LOC_NT.git" />
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Topic_06_WebBrowser_Commands">
+  <component name="RunManager" selected="TestNG.Topic_08_textArea_DropDown.TC01">
     <configuration name="Topic_06_WebBrowser_Commands" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SELENIUM_API_14_LOC_NT" />
       <option name="PACKAGE_NAME" value="" />
@@ -103,11 +102,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Topic_06_WebBrowser_Commands.verifyUrl" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Topic_08_textArea_DropDown.TC01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SELENIUM_API_14_LOC_NT" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Topic_06_WebBrowser_Commands" />
-      <option name="METHOD_NAME" value="verifyUrl" />
+      <option name="MAIN_CLASS_NAME" value="Topic_08_textArea_DropDown" />
+      <option name="METHOD_NAME" value="TC01" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -117,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Topic_08_textArea_DropDown.TC01" />
         <item itemvalue="TestNG.Topic_06_WebBrowser_Commands" />
         <item itemvalue="TestNG.Topic_06_WebBrowser_Commands.getPageSource" />
         <item itemvalue="TestNG.Topic_06_WebBrowser_Commands.navigateFunctions" />
         <item itemvalue="TestNG.Topic_06_WebBrowser_Commands.verifyTitle" />
-        <item itemvalue="TestNG.Topic_06_WebBrowser_Commands.verifyUrl" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +141,7 @@
       <workItem from="1580742664761" duration="950000" />
       <workItem from="1580786053083" duration="596000" />
       <workItem from="1580898792850" duration="1748000" />
-      <workItem from="1581348356383" duration="1650000" />
+      <workItem from="1581348356383" duration="3807000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1580373675142</created>
@@ -193,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580734194418</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="WIP: topic_06_exercise">
+      <created>1581350746418</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1581350746418</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,46 +222,51 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="363" y="139" key="#Notifications/0.23.1440.877@0.23.1440.877" timestamp="1580380200069" />
-    <state x="261" y="83" key="CommitChangelistDialog2" timestamp="1580734194276">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="348" y="120" key="CommitChangelistDialog2" timestamp="1581350746186">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="261" y="83" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1580734194276" />
     <state x="261" y="104" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1580634601667" />
+    <state x="348" y="120" key="CommitChangelistDialog2/0.23.1920.1057@0.23.1920.1057" timestamp="1581350746186" />
     <state x="348" y="138" key="CommitChangelistDialog2/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1580374770776" />
     <state x="496" y="540" key="Github.CreateGistDialog" timestamp="1580372898551">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="496" y="540" key="Github.CreateGistDialog/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1580372898551" />
-    <state width="1440" height="235" key="GridCell.Tab.0.bottom" timestamp="1581350696650">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state width="950" height="235" key="GridCell.Tab.0.bottom" timestamp="1581355746660">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1440" height="312" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580737709259" />
+    <state width="950" height="235" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581355746660" />
     <state width="1440" height="235" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1580899102459" />
-    <state width="1440" height="235" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1581350696650" />
+    <state width="1440" height="235" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1581355218800" />
     <state width="1440" height="235" key="GridCell.Tab.0.bottom/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1581175079905" />
     <state width="1440" height="236" key="GridCell.Tab.0.bottom/1920.203.1440.877/0.23.1920.1057@1920.203.1440.877" timestamp="1580610026678" />
-    <state width="1440" height="235" key="GridCell.Tab.0.center" timestamp="1581350696649">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state width="950" height="235" key="GridCell.Tab.0.center" timestamp="1581355746659">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1440" height="312" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580737709258" />
+    <state width="950" height="235" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581355746659" />
     <state width="1440" height="235" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1580899102458" />
-    <state width="1440" height="235" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1581350696649" />
+    <state width="1440" height="235" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1581355218799" />
     <state width="1440" height="235" key="GridCell.Tab.0.center/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1581175079904" />
     <state width="1440" height="236" key="GridCell.Tab.0.center/1920.203.1440.877/0.23.1920.1057@1920.203.1440.877" timestamp="1580610026677" />
-    <state width="1440" height="235" key="GridCell.Tab.0.left" timestamp="1581350696648">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state width="950" height="235" key="GridCell.Tab.0.left" timestamp="1581355746658">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1440" height="312" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580737709258" />
+    <state width="950" height="235" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581355746658" />
     <state width="1440" height="235" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1580899102457" />
-    <state width="1440" height="235" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1581350696648" />
+    <state width="1440" height="235" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1581355218799" />
     <state width="1440" height="235" key="GridCell.Tab.0.left/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1581175079904" />
     <state width="1440" height="236" key="GridCell.Tab.0.left/1920.203.1440.877/0.23.1920.1057@1920.203.1440.877" timestamp="1580610026676" />
-    <state width="1440" height="235" key="GridCell.Tab.0.right" timestamp="1581350696650">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state width="950" height="235" key="GridCell.Tab.0.right" timestamp="1581355746659">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1440" height="312" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580737709259" />
+    <state width="950" height="235" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581355746659" />
     <state width="1440" height="235" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1580899102458" />
-    <state width="1440" height="235" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1581350696650" />
+    <state width="1440" height="235" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1581355218800" />
     <state width="1440" height="235" key="GridCell.Tab.0.right/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1581175079905" />
     <state width="1440" height="236" key="GridCell.Tab.0.right/1920.203.1440.877/0.23.1920.1057@1920.203.1440.877" timestamp="1580610026677" />
     <state x="264" y="91" key="SettingsEditor" timestamp="1580717986273">
@@ -263,11 +274,12 @@
     </state>
     <state x="264" y="91" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1580717986273" />
     <state x="264" y="112" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1580380241692" />
-    <state x="272" y="223" key="Vcs.Push.Dialog.v2" timestamp="1580734195859">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="363" y="285" key="Vcs.Push.Dialog.v2" timestamp="1581350749096">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="272" y="223" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1580734195859" />
     <state x="272" y="240" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1580634606598" />
+    <state x="363" y="285" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1581350749096" />
     <state x="363" y="285" key="Vcs.Push.Dialog.v2/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1580374772795" />
     <state x="342" y="318" key="com.intellij.ide.util.TipDialog" timestamp="1580899015111">
       <screen x="0" y="23" width="1440" height="877" />
