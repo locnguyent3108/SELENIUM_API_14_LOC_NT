@@ -4,6 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
+import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
@@ -15,21 +16,20 @@ public class Topic_06_WebBrowser_Commands {
     WebDriver driver;
     By PathMyAccount = By.xpath("//div[@class='footer']//a[contains(text(),'My Account')]");
     By PathCreateAccount = By.xpath("//span[contains(text(),'Create an Account')]");
+    
 
     @BeforeTest
-    public static void setUpClass() {
+    public void setUpClass() {
         WebDriverManager.chromedriver().setup();
-    }
-
-    @BeforeClass
-    public void setupTest() throws InterruptedException {
         driver = new ChromeDriver();
-        driver.get("http://live.demoguru99.com/");
         driver.manage().timeouts().implicitlyWait(2, TimeUnit.SECONDS);
     }
 
-    @Test
+
+    @Test(priority = 1)
     public void verifyUrl() throws Exception {
+        driver.get("http://live.demoguru99.com/");
+
         WebElement BtnMyAccount = driver.findElement(PathMyAccount);
         BtnMyAccount.click();
         Assert.assertEquals(driver.getCurrentUrl(), "http://live.demoguru99.com/index.php/customer/account/login/");
@@ -40,8 +40,10 @@ public class Topic_06_WebBrowser_Commands {
 
     }
 
-    @Test
+    @Test(priority = 2)
     public void verifyTitle() throws Exception {
+        driver.get("http://live.demoguru99.com/");
+
         WebElement BtnMyAccount = driver.findElement(PathMyAccount);
         BtnMyAccount.click();
         Assert.assertEquals(driver.getTitle(), "Customer Login");
@@ -51,8 +53,10 @@ public class Topic_06_WebBrowser_Commands {
         Assert.assertEquals(driver.getTitle(), "Create New Customer Account");
     }
 
-    @Test
+    @Test(priority = 3)
     public void navigateFunctions() throws Exception {
+        driver.get("http://live.demoguru99.com/");
+
         WebElement BtnMyAccount = driver.findElement(PathMyAccount);
         BtnMyAccount.click();
 
@@ -67,8 +71,10 @@ public class Topic_06_WebBrowser_Commands {
 
     }
 
-    @Test
+    @Test(priority = 4)
     public void getPageSource() throws Exception {
+        driver.get("http://live.demoguru99.com/");
+
         WebElement myAccountBtn = driver.findElement(PathMyAccount);
         myAccountBtn.click();
 
@@ -86,7 +92,7 @@ public class Topic_06_WebBrowser_Commands {
 
     //-----test case ELEMENT
 
-    @Test
+    @Test(priority = 5)
     public void checkElementDisplay() throws Exception {
         driver.get("https://automationfc.github.io/basic-form/index.html");
 
@@ -103,7 +109,7 @@ public class Topic_06_WebBrowser_Commands {
         Assert.assertTrue(RdAgeUnder18.isDisplayed());
     }
 
-    @Test
+    @Test(priority = 6)
     public void checkElementEnabled() throws Exception {
         driver.get("https://automationfc.github.io/basic-form/index.html");
 
@@ -119,8 +125,27 @@ public class Topic_06_WebBrowser_Commands {
         Assert.assertTrue(dropdownJob1.isEnabled());
     }
 
-    @Test
+    @Test(priority = 7)
     public void checkElementSelected() throws Exception {
+        driver.get("https://automationfc.github.io/basic-form/index.html");
 
+        //
+        WebElement RdAgeUnder18 = driver.findElement(By.xpath("//input[@id='under_18']"));
+        RdAgeUnder18.click();
+        Assert.assertTrue(RdAgeUnder18.isSelected());
+
+        //
+        WebElement Development = driver.findElement(By.xpath("//input[@id='development']"));
+        Development.click();
+        Assert.assertTrue(Development.isSelected());
+
+        //
+        Development.click();
+        Assert.assertFalse(Development.isSelected());
+    }
+
+    @AfterTest
+    public void tearDown() throws Exception {
+        driver.close();
     }
 }
