@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0519075c-a360-48da-bdfe-e6d830aab374" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/PracticeWithJsExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PracticeWithJsExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PracticeWithJsExecutor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Topic_08_textArea_DropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Topic_08_textArea_DropDown.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +55,7 @@
       <command value="git remote add origin https://github.com/locnguyent3108/SELENIUM_API_14_LOC_NT.git" />
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Topic_08_textArea_DropDown.TC05">
+  <component name="RunManager" selected="TestNG.Topic_08_textArea_DropDown.TC01">
     <configuration name="Topic_08_textArea_DropDown.TC01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SELENIUM_API_14_LOC_NT" />
       <option name="PACKAGE_NAME" value="" />
@@ -119,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Topic_08_textArea_DropDown.TC01" />
         <item itemvalue="TestNG.Topic_08_textArea_DropDown.TC05" />
         <item itemvalue="TestNG.Topic_08_textArea_DropDown.TC04" />
         <item itemvalue="TestNG.Topic_08_textArea_DropDown.TC03" />
         <item itemvalue="TestNG.Topic_08_textArea_DropDown.TC02" />
-        <item itemvalue="TestNG.Topic_08_textArea_DropDown.TC01" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +144,7 @@
       <workItem from="1580786053083" duration="596000" />
       <workItem from="1580898792850" duration="1748000" />
       <workItem from="1581348356383" duration="11447000" />
-      <workItem from="1581482015701" duration="6608000" />
+      <workItem from="1581482015701" duration="9527000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1580373675142</created>
@@ -217,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581437976982</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Done test case 2, 3, 4, 5">
+      <created>1581527998563</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1581527998563</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,7 +236,8 @@
     <MESSAGE value="topic 04 exercise" />
     <MESSAGE value="WIP: topic_06_exercise" />
     <MESSAGE value="WIP: Topic7/8 - textBox/TextArea/Custom Dropdown" />
-    <option name="LAST_COMMIT_MESSAGE" value="WIP: Topic7/8 - textBox/TextArea/Custom Dropdown" />
+    <MESSAGE value="Done test case 2, 3, 4, 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done test case 2, 3, 4, 5" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="127" key="#Auto_Import" timestamp="1580631428952">
@@ -241,13 +248,13 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="363" y="139" key="#Notifications/0.23.1440.877@0.23.1440.877" timestamp="1580380200069" />
-    <state x="261" y="83" key="CommitChangelistDialog2" timestamp="1581437976827">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="348" y="120" key="CommitChangelistDialog2" timestamp="1581527998409">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="261" y="83" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1581437976827" />
     <state x="667" y="116" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1581355795428" />
     <state x="261" y="104" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1580634601667" />
-    <state x="348" y="120" key="CommitChangelistDialog2/0.23.1920.1057@0.23.1920.1057" timestamp="1581350746186" />
+    <state x="348" y="120" key="CommitChangelistDialog2/0.23.1920.1057@0.23.1920.1057" timestamp="1581527998409" />
     <state x="348" y="138" key="CommitChangelistDialog2/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1580374770776" />
     <state width="421" height="466" key="DebuggerActiveHint" timestamp="1581436867568">
       <screen x="0" y="0" width="1440" height="900" />
@@ -257,55 +264,56 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="496" y="540" key="Github.CreateGistDialog/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1580372898551" />
-    <state width="1440" height="211" key="GridCell.Tab.0.bottom" timestamp="1581527955281">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state width="1440" height="211" key="GridCell.Tab.0.bottom" timestamp="1581563853181">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1440" height="279" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581503707132" />
     <state width="1920" height="323" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581527195554" />
-    <state width="1440" height="235" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1580899102459" />
+    <state width="1440" height="211" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1581563853181" />
     <state width="1440" height="211" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1581527955281" />
     <state width="1440" height="235" key="GridCell.Tab.0.bottom/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1581175079905" />
     <state width="1440" height="236" key="GridCell.Tab.0.bottom/1920.203.1440.877/0.23.1920.1057@1920.203.1440.877" timestamp="1580610026678" />
-    <state width="1440" height="211" key="GridCell.Tab.0.center" timestamp="1581527955280">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state width="1440" height="211" key="GridCell.Tab.0.center" timestamp="1581563853180">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1440" height="279" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581503707131" />
     <state width="1920" height="323" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581527195553" />
-    <state width="1440" height="235" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1580899102458" />
+    <state width="1440" height="211" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1581563853180" />
     <state width="1440" height="211" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1581527955280" />
     <state width="1440" height="235" key="GridCell.Tab.0.center/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1581175079904" />
     <state width="1440" height="236" key="GridCell.Tab.0.center/1920.203.1440.877/0.23.1920.1057@1920.203.1440.877" timestamp="1580610026677" />
-    <state width="1440" height="211" key="GridCell.Tab.0.left" timestamp="1581527955280">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state width="1440" height="211" key="GridCell.Tab.0.left" timestamp="1581563853180">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1440" height="279" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581503707130" />
     <state width="1920" height="323" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581527195550" />
-    <state width="1440" height="235" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1580899102457" />
+    <state width="1440" height="211" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1581563853180" />
     <state width="1440" height="211" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1581527955280" />
     <state width="1440" height="235" key="GridCell.Tab.0.left/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1581175079904" />
     <state width="1440" height="236" key="GridCell.Tab.0.left/1920.203.1440.877/0.23.1920.1057@1920.203.1440.877" timestamp="1580610026676" />
-    <state width="1440" height="211" key="GridCell.Tab.0.right" timestamp="1581527955281">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state width="1440" height="211" key="GridCell.Tab.0.right" timestamp="1581563853181">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1440" height="279" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581503707132" />
     <state width="1920" height="323" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581527195607" />
-    <state width="1440" height="235" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1580899102458" />
+    <state width="1440" height="211" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1581563853181" />
     <state width="1440" height="211" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1581527955281" />
     <state width="1440" height="235" key="GridCell.Tab.0.right/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1581175079905" />
     <state width="1440" height="236" key="GridCell.Tab.0.right/1920.203.1440.877/0.23.1920.1057@1920.203.1440.877" timestamp="1580610026677" />
-    <state x="352" y="109" key="SettingsEditor" timestamp="1581522497677">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="264" y="112" key="SettingsEditor" timestamp="1581562436705">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="264" y="91" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1581480781461" />
     <state x="352" y="109" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1581522497677" />
-    <state x="264" y="112" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1580380241692" />
-    <state x="272" y="223" key="Vcs.Push.Dialog.v2" timestamp="1581437985133">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="264" y="112" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1581562436705" />
+    <state x="352" y="130" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1581553629758" />
+    <state x="272" y="240" key="Vcs.Push.Dialog.v2" timestamp="1581563933186">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="272" y="223" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1581437985133" />
     <state x="363" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1581355797808" />
-    <state x="272" y="240" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1580634606598" />
-    <state x="363" y="285" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1581350749096" />
+    <state x="272" y="240" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1581563933186" />
+    <state x="363" y="285" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1581527999866" />
     <state x="363" y="285" key="Vcs.Push.Dialog.v2/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1580374772795" />
     <state x="342" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1581482047096">
       <screen x="0" y="0" width="1440" height="900" />
@@ -358,18 +366,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/Topic_08_textArea_DropDown.java</url>
-          <line>63</line>
+          <line>79</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/Topic_08_textArea_DropDown.java</url>
-          <line>95</line>
+          <line>111</line>
           <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/Topic_08_textArea_DropDown.java</url>
-          <line>264</line>
-          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

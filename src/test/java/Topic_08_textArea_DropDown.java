@@ -10,7 +10,6 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 import java.util.List;
-import java.util.NoSuchElementException;
 import java.util.concurrent.TimeUnit;
 
 public class Topic_08_textArea_DropDown {
@@ -29,6 +28,10 @@ public class Topic_08_textArea_DropDown {
     By mobilePhone = By.xpath("//td[text()='Mobile No.']/following-sibling::td");
     By email = By.xpath("//td[text()='Email']/following-sibling::td");
 
+    By navEditCustomer = By.xpath("//a[contains(text(),'Edit Customer')]");
+    By inputCustomerId = By.xpath("//a[contains(text(),'Edit Customer')]");
+    By textBoxCustomerName = By.xpath("//input[@name='name']");
+    By textBoxAddressCustomer = By.xpath("//textarea[@name='addr']");
     @BeforeTest
     public void setUpClass() {
         WebDriverManager.chromedriver().setup();
@@ -47,10 +50,17 @@ public class Topic_08_textArea_DropDown {
 
         WebElement navNewCustomer = driver.findElement(By.xpath("//a[contains(text(),'New Customer')]"));
         navNewCustomer.click();
-        addNewCustomer("customerTest", "male", "02091992", "102 chu van an sai gon",
+        AddnewCustomer("customerTest", "male", "02091992", "102 chu van an sai gon",
                 "ho chi minh", "viet nam", "100000", "03371592812", newEmail, "123456789");
-        verifyCustomerInformation();
+        VerifyCustomerInformation();
+        String customerId = driver.findElement(customerID).getText();
+        EditCustomerInformationById(customerId);
+
+        Assert.assertEquals(driver.findElement(textBoxCustomerName).getAttribute("value"),"customerTest");
+        Assert.assertEquals(driver.findElement(textBoxAddressCustomer).getText(), "102 chu van an sai gon");
     }
+
+
 
     @Test(priority = 2)
     public void TC02() {
@@ -151,7 +161,6 @@ public class Topic_08_textArea_DropDown {
     public void tearDown() {
         driver.close();
     }
-
     public String RandomEmail() {
         String partialEmail = "automation_";
         int temp = (int) (Math.random() * 1000);
@@ -190,7 +199,7 @@ public class Topic_08_textArea_DropDown {
         System.out.println("");
     }
 
-    public void addNewCustomer(String customerName, String gender, String dob,
+    public void AddnewCustomer(String customerName, String gender, String dob,
                                String address, String city, String state, String PIN, String phoneNumber,
                                String email, String password) {
 
@@ -232,7 +241,7 @@ public class Topic_08_textArea_DropDown {
         driver.findElement(By.xpath("//input[@name='sub']")).click();
     }
 
-    public void verifyCustomerInformation() {
+    public void VerifyCustomerInformation() {
         String dob = driver.findElement(birthday).getText();
         dob = dob.replaceAll("-","");
         String actualDob = dob.substring(4,8) + dob.substring(0,4);
@@ -248,6 +257,12 @@ public class Topic_08_textArea_DropDown {
         Assert.assertEquals(driver.findElement(email).getText(), newEmail);
     }
 
+    private void EditCustomerInformationById(String customerId) {
+        driver.findElement(navEditCustomer).click();
+        WebElement textBoxCustomerId = driver.findElement(inputCustomerId);
+        textBoxCustomerId.sendKeys(customerId);
+        driver.findElement(By.xpath("//input[@name='AccSubmit']")).click();
+    }
     public void waitElementDisplay(By locator) {
         WebDriverWait wait = new WebDriverWait(driver, 15);
         wait.until(ExpectedConditions.visibilityOfElementLocated(locator));
@@ -259,10 +274,10 @@ public class Topic_08_textArea_DropDown {
                     Thread.sleep(2000);
                 System.out.println("display number: " + childNumber.getText());
                 childNumber.click();
+                ((JavascriptExecutor) driver).executeScript("arguments[0].click()",childNumber);
             } else {
                 ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true)",childNumber);
             }
-            System.out.println("");
         }
     }
 }
