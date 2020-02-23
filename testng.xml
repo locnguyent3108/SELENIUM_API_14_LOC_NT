@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="demoGrouping">
+<!--   <test name="PracticeGroupBasic">-->
+<!--       <groups>-->
+<!--           <run>-->
+<!--               <include name="demo2"/>-->
+<!--           </run>-->
+<!--       </groups>-->
+<!--       <classes>-->
+<!--           <class name="TestNG.groupDemo"/>-->
+<!--       </classes>-->
+<!--   </test>-->
+
+    <!--using define to create combinations-->
+    <test name="testDefineGroupRunner">
+        <groups>
+            <define name="All">
+                <include name="demo1"/>
+                <include name="demo2"/>
+            </define>
+            <run>
+                <include name="All"/>
+            </run>
+        </groups>
+        <classes>
+                <class name="TestNG.groupDemo"/>
+        </classes>
+    </test>
+
+</suite>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="demoGrouping">
+<!--   <test name="PracticeGroupBasic">-->
+<!--       <groups>-->
+<!--           <run>-->
+<!--               <include name="demo2"/>-->
+<!--           </run>-->
+<!--       </groups>-->
+<!--       <classes>-->
+<!--           <class name="TestNG.groupDemo"/>-->
+<!--       </classes>-->
+<!--   </test>-->
+
+    <!--using define to create combinations-->
+    <test name="testUsingParameters">
+        <parameter name = "sUserName" value = "testuser_1"/>
+        <parameter name = "sPassWord" value = "Test@123"/>
+        <classes>
+            <class name="TestNG.ParameterDemo"/>
+        </classes>
+    </test>
+
+</suite>

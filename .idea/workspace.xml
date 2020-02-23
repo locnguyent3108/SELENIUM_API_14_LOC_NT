@@ -2,7 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0519075c-a360-48da-bdfe-e6d830aab374" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/SELENIUM_API_14_LOC_NT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/2/12e3d3e5260d86acd4c940a8ef903335dcf9750f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3ac40d439615dda27a6afae08b985c1c1dd37734" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3f119578a7c8456b769a2b04e0846ae20b3fe4be" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/443d845dbdb5a9b7510f9f7f93fb7cb78581084f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/522a7a4e21649af06297e31a9e33f13bb4fd3022" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/5397002e4046fb856ea810b30b3a5fb1a8f70ea5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/53a8b84221073f081c582f7d3c149ddcbc036200" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5acbe6c306dee4498a010b1ca2096853e29e16a4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5e7a9437ebda39e8660d7c4b2cc7681fddc1b314" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5eeb43c9be7857656a53d4c49623d963687a960e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/71cf4a54141c966e3f32fe10eddc198b4dd873f6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7a8feecab5073bd5e2a389998b7c9159bbc83a8b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82fdbc307bc8067b7285994387677e88cb869dfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/851bc7c30ae5a6c00d5bca7f883f655cb5cd2876" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a41622e4cf0b7e93043e01d00e352461b797bc1b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c8375a2b90b1d26bb906898ae6a650e9efa07f53" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c8a95f144c29068a669f27130df32d1f4b519b76" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/2/d267fcee7d120eb8c745aef1c26d50e5b48cd620" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e6e47538bdc115148e877ae9f589dfaf0d37138f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/eb016b003ba41483f823711d9f696513c613e752" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/f/ef0e938aff1b42be8d8573a634252137e2c43b8a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/fada021beff47afd786d0413fc57f86fbb1c586c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/InjectXHTMl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestNG/Log4jExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestNG/ParameterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestNG/TestListenerDoc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Topic_09_Button_Radio_CheckBox_Alert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WaitForJQueryAngularAjax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/alert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/demoParallelTest/FirstTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/demoParallelTest/TLDriverFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testListner/ITestLisnterTestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testListner/ITestListenerDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testNGData.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/PracticeWithJsExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PracticeWithJsExecutor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Topic_08_textArea_DropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Topic_08_textArea_DropDown.java" afterDir="false" />
     </list>
@@ -35,31 +77,46 @@
     </option>
   </component>
   <component name="ProjectId" id="1X6iKyz4OBOtsAWoLwq5juXbXWa" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="java" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="git remote add origin https://github.com/locnguyent3108/SELENIUM_API_14_LOC_NT.git" />
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Topic_08_textArea_DropDown.TC01">
-    <configuration name="Topic_08_textArea_DropDown.TC01" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Topic_09_Button_Radio_CheckBox_Alert.TC06">
+    <configuration name="Topic_09_Button_Radio_CheckBox_Alert.TC01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SELENIUM_API_14_LOC_NT" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Topic_08_textArea_DropDown" />
+      <option name="MAIN_CLASS_NAME" value="Topic_09_Button_Radio_CheckBox_Alert" />
       <option name="METHOD_NAME" value="TC01" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -68,22 +125,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Topic_08_textArea_DropDown.TC02" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Topic_09_Button_Radio_CheckBox_Alert.TC03" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SELENIUM_API_14_LOC_NT" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Topic_08_textArea_DropDown" />
-      <option name="METHOD_NAME" value="TC02" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Topic_08_textArea_DropDown.TC03" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SELENIUM_API_14_LOC_NT" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Topic_08_textArea_DropDown" />
+      <option name="MAIN_CLASS_NAME" value="Topic_09_Button_Radio_CheckBox_Alert" />
       <option name="METHOD_NAME" value="TC03" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -92,10 +137,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Topic_08_textArea_DropDown.TC04" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Topic_09_Button_Radio_CheckBox_Alert.TC04" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SELENIUM_API_14_LOC_NT" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Topic_08_textArea_DropDown" />
+      <option name="MAIN_CLASS_NAME" value="Topic_09_Button_Radio_CheckBox_Alert" />
       <option name="METHOD_NAME" value="TC04" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -104,11 +149,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Topic_08_textArea_DropDown.TC05" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Topic_09_Button_Radio_CheckBox_Alert.TC05" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SELENIUM_API_14_LOC_NT" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Topic_08_textArea_DropDown" />
+      <option name="MAIN_CLASS_NAME" value="Topic_09_Button_Radio_CheckBox_Alert" />
       <option name="METHOD_NAME" value="TC05" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Topic_09_Button_Radio_CheckBox_Alert.TC06" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SELENIUM_API_14_LOC_NT" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Topic_09_Button_Radio_CheckBox_Alert" />
+      <option name="METHOD_NAME" value="TC06" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -118,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Topic_08_textArea_DropDown.TC01" />
-        <item itemvalue="TestNG.Topic_08_textArea_DropDown.TC05" />
-        <item itemvalue="TestNG.Topic_08_textArea_DropDown.TC04" />
-        <item itemvalue="TestNG.Topic_08_textArea_DropDown.TC03" />
-        <item itemvalue="TestNG.Topic_08_textArea_DropDown.TC02" />
+        <item itemvalue="TestNG.Topic_09_Button_Radio_CheckBox_Alert.TC06" />
+        <item itemvalue="TestNG.Topic_09_Button_Radio_CheckBox_Alert.TC05" />
+        <item itemvalue="TestNG.Topic_09_Button_Radio_CheckBox_Alert.TC04" />
+        <item itemvalue="TestNG.Topic_09_Button_Radio_CheckBox_Alert.TC03" />
+        <item itemvalue="TestNG.Topic_09_Button_Radio_CheckBox_Alert.TC01" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +201,13 @@
       <workItem from="1580786053083" duration="596000" />
       <workItem from="1580898792850" duration="1748000" />
       <workItem from="1581348356383" duration="11447000" />
-      <workItem from="1581482015701" duration="9527000" />
+      <workItem from="1581482015701" duration="13636000" />
+      <workItem from="1581610051292" duration="6188000" />
+      <workItem from="1581781729546" duration="9640000" />
+      <workItem from="1581914307266" duration="5309000" />
+      <workItem from="1582201250191" duration="621000" />
+      <workItem from="1582256446513" duration="5250000" />
+      <workItem from="1582393716048" duration="6095000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1580373675142</created>
@@ -223,13 +286,21 @@
       <option name="project" value="LOCAL" />
       <updated>1581527998563</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Done topic 7/8">
+      <created>1581563960259</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1581563960259</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="init&#10;" />
     <MESSAGE value="init" />
     <MESSAGE value="test" />
@@ -237,23 +308,36 @@
     <MESSAGE value="WIP: topic_06_exercise" />
     <MESSAGE value="WIP: Topic7/8 - textBox/TextArea/Custom Dropdown" />
     <MESSAGE value="Done test case 2, 3, 4, 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done test case 2, 3, 4, 5" />
+    <MESSAGE value="Done topic 7/8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done topic 7/8" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="127" key="#Auto_Import" timestamp="1580631428952">
+    <state x="320" y="127" key="#Auto_Import" timestamp="1581659033838">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="127" key="#Auto_Import/0.23.1440.877@0.23.1440.877" timestamp="1580631428952" />
+    <state x="320" y="127" key="#Auto_Import/0.23.1440.877@0.23.1440.877" timestamp="1581659033838" />
     <state x="363" y="139" key="#Notifications" timestamp="1580380200069">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="363" y="139" key="#Notifications/0.23.1440.877@0.23.1440.877" timestamp="1580380200069" />
-    <state x="348" y="120" key="CommitChangelistDialog2" timestamp="1581527998409">
+    <state x="560" y="217" key="#Project_Structure" timestamp="1581670586589">
       <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="560" y="217" key="#Project_Structure/0.23.1920.1057@0.23.1920.1057" timestamp="1581670586589" />
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1582106365514">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1582106365514" />
+    <state x="486" y="328" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581659009501">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="486" y="328" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.877@0.23.1440.877" timestamp="1581659009501" />
+    <state x="261" y="104" key="CommitChangelistDialog2" timestamp="1581563960099">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="261" y="83" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1581437976827" />
     <state x="667" y="116" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1581355795428" />
-    <state x="261" y="104" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1580634601667" />
+    <state x="261" y="104" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1581563960099" />
     <state x="348" y="120" key="CommitChangelistDialog2/0.23.1920.1057@0.23.1920.1057" timestamp="1581527998409" />
     <state x="348" y="138" key="CommitChangelistDialog2/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1580374770776" />
     <state width="421" height="466" key="DebuggerActiveHint" timestamp="1581436867568">
@@ -264,62 +348,77 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="496" y="540" key="Github.CreateGistDialog/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1580372898551" />
-    <state width="1440" height="211" key="GridCell.Tab.0.bottom" timestamp="1581563853181">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1028" height="258" key="GridCell.Tab.0.bottom" timestamp="1582446347055">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1440" height="279" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581503707132" />
+    <state width="1440" height="264" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582202042467" />
+    <state width="1440" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1366.200.1366.768@0.0.1920.1080" timestamp="1582151812384" />
     <state width="1920" height="323" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581527195554" />
-    <state width="1440" height="211" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1581563853181" />
-    <state width="1440" height="211" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1581527955281" />
+    <state width="1440" height="264" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1581914237982" />
+    <state width="1028" height="258" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1366.223.1366.745@0.23.1920.1057" timestamp="1582446347055" />
+    <state width="1257" height="264" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1581792281589" />
     <state width="1440" height="235" key="GridCell.Tab.0.bottom/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1581175079905" />
     <state width="1440" height="236" key="GridCell.Tab.0.bottom/1920.203.1440.877/0.23.1920.1057@1920.203.1440.877" timestamp="1580610026678" />
-    <state width="1440" height="211" key="GridCell.Tab.0.center" timestamp="1581563853180">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1028" height="258" key="GridCell.Tab.0.center" timestamp="1582446347054">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1440" height="279" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581503707131" />
+    <state width="1440" height="264" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582202042466" />
+    <state width="1440" height="264" key="GridCell.Tab.0.center/0.0.1920.1080/-1366.200.1366.768@0.0.1920.1080" timestamp="1582151812381" />
     <state width="1920" height="323" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581527195553" />
-    <state width="1440" height="211" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1581563853180" />
-    <state width="1440" height="211" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1581527955280" />
+    <state width="1440" height="264" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1581914237981" />
+    <state width="1028" height="258" key="GridCell.Tab.0.center/0.23.1920.1057/-1366.223.1366.745@0.23.1920.1057" timestamp="1582446347054" />
+    <state width="1257" height="264" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1581792281589" />
     <state width="1440" height="235" key="GridCell.Tab.0.center/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1581175079904" />
     <state width="1440" height="236" key="GridCell.Tab.0.center/1920.203.1440.877/0.23.1920.1057@1920.203.1440.877" timestamp="1580610026677" />
-    <state width="1440" height="211" key="GridCell.Tab.0.left" timestamp="1581563853180">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1028" height="258" key="GridCell.Tab.0.left" timestamp="1582446347054">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1440" height="279" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581503707130" />
+    <state width="1440" height="264" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582202042466" />
+    <state width="1440" height="264" key="GridCell.Tab.0.left/0.0.1920.1080/-1366.200.1366.768@0.0.1920.1080" timestamp="1582151812380" />
     <state width="1920" height="323" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581527195550" />
-    <state width="1440" height="211" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1581563853180" />
-    <state width="1440" height="211" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1581527955280" />
+    <state width="1440" height="264" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1581914237981" />
+    <state width="1028" height="258" key="GridCell.Tab.0.left/0.23.1920.1057/-1366.223.1366.745@0.23.1920.1057" timestamp="1582446347054" />
+    <state width="1257" height="264" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1581792281588" />
     <state width="1440" height="235" key="GridCell.Tab.0.left/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1581175079904" />
     <state width="1440" height="236" key="GridCell.Tab.0.left/1920.203.1440.877/0.23.1920.1057@1920.203.1440.877" timestamp="1580610026676" />
-    <state width="1440" height="211" key="GridCell.Tab.0.right" timestamp="1581563853181">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1028" height="258" key="GridCell.Tab.0.right" timestamp="1582446347055">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1440" height="279" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581503707132" />
+    <state width="1440" height="264" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582202042467" />
+    <state width="1440" height="264" key="GridCell.Tab.0.right/0.0.1920.1080/-1366.200.1366.768@0.0.1920.1080" timestamp="1582151812383" />
     <state width="1920" height="323" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581527195607" />
-    <state width="1440" height="211" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1581563853181" />
-    <state width="1440" height="211" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1581527955281" />
+    <state width="1440" height="264" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1581914237981" />
+    <state width="1028" height="258" key="GridCell.Tab.0.right/0.23.1920.1057/-1366.223.1366.745@0.23.1920.1057" timestamp="1582446347055" />
+    <state width="1257" height="264" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1581792281589" />
     <state width="1440" height="235" key="GridCell.Tab.0.right/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1581175079905" />
     <state width="1440" height="236" key="GridCell.Tab.0.right/1920.203.1440.877/0.23.1920.1057@1920.203.1440.877" timestamp="1580610026677" />
-    <state x="264" y="112" key="SettingsEditor" timestamp="1581562436705">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="13" y="168" key="Maven.ArtifactSearchDialog" timestamp="1582105519275">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="264" y="91" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1581480781461" />
+    <state x="13" y="168" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1582105519275" />
+    <state x="17" y="202" key="Maven.ArtifactSearchDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581782198315" />
+    <state x="264" y="91" key="SettingsEditor" timestamp="1581832054056">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="264" y="91" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1581832054056" />
     <state x="352" y="109" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1581522497677" />
-    <state x="264" y="112" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1581562436705" />
-    <state x="352" y="130" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1581553629758" />
-    <state x="272" y="240" key="Vcs.Push.Dialog.v2" timestamp="1581563933186">
+    <state x="264" y="63" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1581828225411" />
+    <state x="352" y="130" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1581669835615" />
+    <state x="272" y="240" key="Vcs.Push.Dialog.v2" timestamp="1581563962814">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="272" y="223" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1581437985133" />
     <state x="363" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1581355797808" />
-    <state x="272" y="240" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1581563933186" />
+    <state x="272" y="240" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1581563962814" />
     <state x="363" y="285" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1581527999866" />
     <state x="363" y="285" key="Vcs.Push.Dialog.v2/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1580374772795" />
-    <state x="342" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1581482047096">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="456" y="379" key="com.intellij.ide.util.TipDialog" timestamp="1582393720989">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="342" y="303" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1581482047096" />
+    <state x="342" y="303" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1581914337298" />
     <state x="342" y="318" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1580899015111" />
+    <state x="456" y="379" key="com.intellij.ide.util.TipDialog/0.23.1920.1057/-1366.223.1366.745@0.23.1920.1057" timestamp="1582393720989" />
+    <state x="456" y="364" key="com.intellij.ide.util.TipDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1581610066915" />
     <state x="456" y="363" key="com.intellij.ide.util.TipDialog/1920.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1580742669264" />
     <state x="456" y="378" key="com.intellij.ide.util.TipDialog/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1580609590096" />
     <state x="426" y="393" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580380250878">
@@ -331,17 +430,21 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="569" y="265" width="782" height="550" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1581420007823" />
-    <state x="97" y="159" key="new project wizard" timestamp="1581066876905">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="129" y="168" key="new project wizard" timestamp="1582151746681">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="97" y="159" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1581066876905" />
+    <state x="97" y="140" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1582096627024" />
+    <state x="129" y="168" key="new project wizard/0.0.1920.1080/-1366.200.1366.768@0.0.1920.1080" timestamp="1582151746681" />
+    <state x="97" y="159" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1582088647037" />
     <state x="345" y="289" key="run.anything.popup" timestamp="1580372959783">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="345" y="289" key="run.anything.popup/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1580372959783" />
-    <state x="345" y="375" key="search.everywhere.popup" timestamp="1580372981914">
+    <state x="345" y="375" width="894" height="794" key="search.everywhere.popup" timestamp="1582446180694">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
+    <state x="259" y="300" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1581583755599" />
+    <state x="345" y="375" width="894" height="794" key="search.everywhere.popup/0.23.1920.1057/-1366.223.1366.745@0.23.1920.1057" timestamp="1582446180694" />
     <state x="345" y="375" key="search.everywhere.popup/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1580372981914" />
     <state x="491" y="448" key="svn.passwordDialog" timestamp="1580373102351">
       <screen x="0" y="23" width="1920" height="1057" />
@@ -366,13 +469,28 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/Topic_08_textArea_DropDown.java</url>
-          <line>79</line>
+          <line>73</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/Topic_08_textArea_DropDown.java</url>
-          <line>111</line>
+          <line>105</line>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/alert.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Topic_08_textArea_DropDown.java</url>
+          <line>294</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Topic_08_textArea_DropDown.java</url>
+          <line>170</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
